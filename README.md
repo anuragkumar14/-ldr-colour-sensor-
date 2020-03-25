@@ -3,9 +3,9 @@ It is a RGB colour sensor made using ldr(light dependent resistor), rgb led and 
 The colour sensor senses red, green, and blue colours.
 
 COMPONENTS REQUIRED:
-LDR
-RGB LED
-ARDUINO UNO
-RESISTORS
-BREADBOARD
-JUMPER WIRES
+1) LDR
+2) RGB LED
+3) ARDUINO UNO
+4) RESISTORS
+5) BREADBOARD
+6) JUMPER WIRES
